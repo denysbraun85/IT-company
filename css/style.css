@@ -20,10 +20,6 @@
   font-weight: bold;
   font-style: normal; }
 
-@font-face {
-  font-family: 'FontAwesome';
-  src: url("../libs/fontawesome/webfonts/fa-regular-400.eot"); }
-
 /* -----Colors----- */
 /* -----Typography----- */
 html {
